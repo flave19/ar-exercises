@@ -11,4 +11,3 @@ store3 = Store.create(name: "Gastown", annual_revenue:190000, mens_apparel: true
 
 puts "Number of stores is: #{Store.count}"
 
-
